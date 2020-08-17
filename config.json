@@ -1,0 +1,29 @@
+{
+	"version": "2.7",
+	"officialServer": "тут ID сервера",
+	"outputChannelId": "тут ID канала где будут сохранятся логи",
+	"guildUpdateChannelId": "тут ID канала где будут сохранятся логи",
+	"maxSongDuration": 660,
+	"shardCount": 3,
+	"prefix": "тут префикс",
+	"ownerId": "тут ваше ID",
+	"guild": "тут ID сервера",
+	"DMchannel": "тут ID канала для приватных обращений через бота",
+	"LogsChannel": "тут ID канала где будут сохранятся логи",
+	"token": "тут токен",
+	"owner": "тут ваше ID",
+	"debug": true,
+	"osu_cache_path": "тут путь к папке с кешом для осу",
+	"pp_path": "",
+	"beatmap_api": "https://osu.lea.moe",
+	"credentials": {
+		"bot_token": "тут токен бота",
+		"discord_client_id": "тут ID бота",
+		"osu_api_key": "тут токен от OSU API",
+		"twitch_client_id": "тут twitch ID",
+		"pexels_key": "токен Pexels api",
+		"last_fm_key": "токен LastFM API",
+		"vkapi": "токен VK API",
+		"Youtube_token": "токен Youtube API"
+	}
+}
