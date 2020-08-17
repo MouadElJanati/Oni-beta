@@ -2,15 +2,16 @@
 
 > Если Вам нужно быстро найти что-то в документации, Вы можете использовать эту `навигацию`.
 
-- [Об устарении проекта](# Oni Beta)
+- [Об устарении проекта](# Oni-Beta)
 - [Установка](#Установка)
 - [Лицензия](#Лицензия)
 
 
-## Oni Beta
+## Oni-Beta
 
 **Обратите внимание, что этот репозиторий больше не поддерживается!**
 С новым проектом мы переехали <a href="https://github.com/TFlashgamer/oni-stable" target="_blank">сюда</a>
+
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
 
