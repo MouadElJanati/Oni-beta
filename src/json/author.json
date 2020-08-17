@@ -1,0 +1,29 @@
+{
+	"vk": {
+		"n": "@TSlash",
+		"url": "Null"
+	},
+
+	"gitlab": {
+		"n": "@TSlash",
+		"url": "null"
+	},
+
+	"discord": {
+		"n": "Discord",
+		"url": "https://discord.gg/xFPpM96"
+	},
+
+	"profile": {
+		"tag": "/TSlash#2499",
+		"avatar": "https://cdn.discordapp.com/avatars/358182652798435339/63255bc7706f08a8ebeae825349f4030.png?size=2048"
+	},
+
+	"donate": {
+		"n0": "Пообщайтесь с разработчиком здесь",
+		"url0": "https://discord.gg/xFPpM96",
+		"n1": "В знак благодарности можете подписаться на YouTube канал",
+		"url1": "Отправьте простую благодарность в ЛС `/TSlash#2499`",
+		"txt": "Поддержите разработчика бота!"
+	}
+}
