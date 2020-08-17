@@ -9,10 +9,14 @@
 
 ## Информация
 
+<a><img src="https://i.ibb.co/N7z1cCN/logo.jpg" title="Oni Beta" alt="Oni Beta"></a>
+
 **Oni Beta**
 
 **Обратите внимание, что этот репозиторий больше не поддерживается!**
 С новым проектом мы переехали <a href="https://github.com/TFlashgamer/oni-stable" target="_blank">сюда</a>
+
+<a href="https://tflashgamer.github.io/oni.html" target="_blank">Наш сайт с всей информацией</a>
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
